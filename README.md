@@ -1,7 +1,6 @@
 # maql
  multi-agent q-learning integration tests
 
-Testing 
 
 # Running the Code:
 Install PettingZoo and its dependencies.
