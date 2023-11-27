@@ -6,9 +6,9 @@ Testing
 # Running the Code:
 Install PettingZoo and its dependencies.
 
-'''
+```
 pip install pettingzoo[clasic]
-'''
+```
 
 Copy the q-learning script into a Python file (e.g., multi_agent_q_learning.py).
 Run the script in your Python environment.
